@@ -63,9 +63,9 @@ The table below catalogs leading commercial SaaS solutions, ranked in descending
 
 ## 🔓 Open-Source GitHub Projects
 
-The following repositories provide self-hosted AI inpainting studios, neural background matting networks, super-resolution pipelines, and RAW editors. Repositories are ranked in descending order by **GitHub Star Count**:
+The following repositories provide self-hosted AI inpainting studios, neural background matting networks, super-resolution pipelines, and RAW editors. Repositories are ranked in descending order by **GitHub Stars_Count**:
 
-| Repository 📦 | GitHub Stars ⭐ | Primary Focus & Architecture 🔍 | License 📜 |
+| Repository 📦 | GitHub_Stars ⭐ | Primary Focus & Architecture 🔍 | License 📜 |
 | :--- | :--- | :--- | :--- |
 | **[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** | [![Stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social&color=white)](https://github.com/AUTOMATIC1111/stable-diffusion-webui/stargazers) | Definitive web UI for Stable Diffusion and SDXL featuring deep inpainting, outpainting, Sketch-to-Image, and ControlNet. | `AGPL-3.0` |
 | **[comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)** | [![Stars](https://img.shields.io/github/stars/comfyanonymous/ComfyUI?style=social&color=white)](https://github.com/comfyanonymous/ComfyUI/stargazers) | Modular graph-based visual pipeline for chaining SAM 2 segmentation, regional inpainting, IC-Light relighting, and multi-stage upscaling. | `GPL-3.0` |
